@@ -65,43 +65,43 @@ button {
 
 /* Background images for different weather conditions */
 .sunny {
-    background-image: url('images/sunny.jpg');
+    background-image: url('images/sunny.jpeg');
     background-size: cover;
     background-position: center;
 }
 
 .cloudy {
-    background-image: url('images/cloudy.jpg');
+    background-image: url('images/cloudy.jpeg');
     background-size: cover;
     background-position: center;
 }
 
 .rainy {
-    background-image: url('images/rainy.jpg');
+    background-image: url('images/rainy.jpeg');
     background-size: cover;
     background-position: center;
 }
 
 .night {
-    background-image: url('images/night.jpg');
+    background-image: url('images/night.jpeg');
     background-size: cover;
     background-position: center;
 }
 
 .clear-night {
-    background-image: url('images/clear-night.jpg');
+    background-image: url('images/clear-night.jpeg');
     background-size: cover;
     background-position: center;
 }
 
 .cloudy-night {
-    background-image: url('images/cloudy-night.jpg');
+    background-image: url('images/cloudy-night.jpeg');
     background-size: cover;
     background-position: center;
 }
 
 .rainy-night {
-    background-image: url('images/rainy-night.jpg');
+    background-image: url('images/rainy-night.jpeg');
     background-size: cover;
     background-position: center;
 }
